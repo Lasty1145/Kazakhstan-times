@@ -1,0 +1,97 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Biev Courthouse
+  rotate: false
+  xy: 4, 728
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+BuildingIcons/National Commercial Building
+  rotate: false
+  xy: 520, 728
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kurgan
+  rotate: false
+  xy: 262, 470
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Kazakh Khanate
+  rotate: false
+  xy: 262, 728
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Kazakhstan
+  rotate: false
+  xy: 4, 212
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Scythia
+  rotate: false
+  xy: 262, 212
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Turkic Khaganate
+  rotate: false
+  xy: 520, 212
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kurgan
+  rotate: false
+  xy: 1036, 942
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+UnitIcons/Fiery nomad
+  rotate: false
+  xy: 4, 470
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+UnitIcons/National Guard
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Scythian archer
+  rotate: false
+  xy: 520, 470
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+UnitIcons/Turkic Heavy
+  rotate: false
+  xy: 778, 728
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+UnitIcons/Turkic archer
+  rotate: false
+  xy: 778, 470
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
